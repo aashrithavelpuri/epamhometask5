@@ -3,7 +3,7 @@ import java.util.Scanner;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 public class SimpleCompoundInterest  {
-	private static final Logger LOGGER = LogManager.getLogger(HouseConstructionCostEstimationMain.class);
+	private static final Logger LOGGER = LogManager.getLogger(SimpleCompoundInterest.class);
 	public void calculate()
 	{
 		double principalAmount = 0.0, simpleInterest = 0.0,compoundInterest = 0.0;
